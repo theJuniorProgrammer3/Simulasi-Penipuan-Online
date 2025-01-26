@@ -15,4 +15,5 @@ You need compile the .cpp file.
 ## Dibuat dengan:
 Termux, ARM
 # Tested on:
+## Diuji di:
 Termux, ARM
